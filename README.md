@@ -80,7 +80,7 @@ This web application is very well suited for a small institution, coaching and t
 ![](https://github.com/hjain5164/Screenshots/blob/master/Student-Management-System/a3.gif)
 
 
-### - Notices Uploaded
+### - Notices  Uploaded
 ![](https://github.com/hjain5164/Screenshots/blob/master/Student-Management-System/a4.gif)
 
 
